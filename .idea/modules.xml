@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/XiaoxingPicker/XiaoxingPicker.iml" filepath="$PROJECT_DIR$/.idea/modules/XiaoxingPicker/XiaoxingPicker.iml" group="Xiaoxing_Picker/XiaoxingPicker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/XiaoxingPickerLibrary/XiaoxingPickerLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/XiaoxingPickerLibrary/XiaoxingPickerLibrary.iml" group="Xiaoxing_Picker/XiaoxingPickerLibrary" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Xiaoxing_Picker.iml" filepath="$PROJECT_DIR$/.idea/modules/Xiaoxing_Picker.iml" group="Xiaoxing_Picker" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Xiaoxing_Picker/app" />
+      <module fileurl="file://$PROJECT_DIR$/gifloadingview/gifloadingview.iml" filepath="$PROJECT_DIR$/gifloadingview/gifloadingview.iml" />
+    </modules>
+  </component>
+</project>

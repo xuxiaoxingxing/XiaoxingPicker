@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:background="@color/public_color_transparent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/dp_10"
+    android:paddingLeft="@dimen/dp_10"
+    android:paddingRight="@dimen/dp_10"
+    android:paddingTop="@dimen/dp_10">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/public_shape_white_corner_5dp"
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/btn_xiang_ce"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_50"
+            android:background="@null"
+            android:gravity="center"
+            android:text="相册"
+            android:textColor="#1F77F1"
+            android:textSize="@dimen/public_font_16sp" />
+
+        <include layout="@layout/public_line_horizontal" />
+
+        <Button
+            android:id="@+id/ben_xiang_ji"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_50"
+            android:background="@null"
+            android:gravity="center"
+            android:text="相机"
+            android:textColor="#1F77F1"
+            android:textSize="@dimen/public_font_16sp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_qu_xiao"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_50"
+        android:layout_marginTop="@dimen/dp_10"
+        android:background="@drawable/public_shape_white_corner_5dp"
+        android:gravity="center"
+        android:text="取消"
+        android:textColor="#D64D33"
+        android:textSize="@dimen/public_font_16sp" />
+</LinearLayout>
