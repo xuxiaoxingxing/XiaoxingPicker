@@ -18,5 +18,8 @@
   <color name="__picker_item_unselected_border">#40000000</color>
     <color name="colorPrimaryDark">#00574B</color>
   <color name="colorPrimary">#008577</color><!--25%透明度-->
+  <color name="public_color_transparent">#00000000</color>
+  <color name="public_white">#FFFFFF</color>
+  <color name="public_client_line_color">#E4E4E4</color>
 
 </resources>
